@@ -1,0 +1,9 @@
+[submodule "distributor"]
+	path = distributor
+	url = https://github.com/NoseferatuWKF/distributor.git
+[submodule "swiper"]
+	path = swiper
+	url = https://github.com/NoseferatuWKF/swiper.git
+[submodule "athena"]
+	path = athena
+	url = https://github.com/NoseferatuWKF/athena.git
